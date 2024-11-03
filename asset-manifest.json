@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4005dd40.css",
-    "main.js": "/static/js/main.b4998393.js",
-    "static/js/787.7779eadb.chunk.js": "/static/js/787.7779eadb.chunk.js",
-    "index.html": "/index.html",
-    "main.4005dd40.css.map": "/static/css/main.4005dd40.css.map",
-    "main.b4998393.js.map": "/static/js/main.b4998393.js.map",
-    "787.7779eadb.chunk.js.map": "/static/js/787.7779eadb.chunk.js.map"
+    "main.css": "/BMICalculator/static/css/main.4005dd40.css",
+    "main.js": "/BMICalculator/static/js/main.e72c3330.js",
+    "static/js/787.7779eadb.chunk.js": "/BMICalculator/static/js/787.7779eadb.chunk.js",
+    "index.html": "/BMICalculator/index.html",
+    "main.4005dd40.css.map": "/BMICalculator/static/css/main.4005dd40.css.map",
+    "main.e72c3330.js.map": "/BMICalculator/static/js/main.e72c3330.js.map",
+    "787.7779eadb.chunk.js.map": "/BMICalculator/static/js/787.7779eadb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4005dd40.css",
-    "static/js/main.b4998393.js"
+    "static/js/main.e72c3330.js"
   ]
 }
