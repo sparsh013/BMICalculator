@@ -24,7 +24,7 @@ const App = () => {
   },[weight,height]);
   return (
     <main>
-      <h1>Project 4: BMI Calculator</h1>
+      <h1>BMI Calculator</h1>
       <div className="input-section">
         <p className="slider-output">Weight:{weight} kg</p>
         <input
